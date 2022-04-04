@@ -1,0 +1,5 @@
+C:\Users\sagok\Desktop\massive (30.03.22)\dbtest\obj\Debug\net6.0\dbtest.csproj.AssemblyReference.cache
+C:\Users\sagok\Desktop\massive (30.03.22)\dbtest\obj\Debug\net6.0\dbtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagok\Desktop\massive (30.03.22)\dbtest\obj\Debug\net6.0\dbtest.AssemblyInfoInputs.cache
+C:\Users\sagok\Desktop\massive (30.03.22)\dbtest\obj\Debug\net6.0\dbtest.AssemblyInfo.cs
+C:\Users\sagok\Desktop\massive (30.03.22)\dbtest\obj\Debug\net6.0\dbtest.csproj.CoreCompileInputs.cache

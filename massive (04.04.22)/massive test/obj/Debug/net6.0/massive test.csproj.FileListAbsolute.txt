@@ -1,0 +1,81 @@
+C:\Users\sagok\source\repos\massive test\massive test\bin\Debug\net6.0\massive test.exe
+C:\Users\sagok\source\repos\massive test\massive test\bin\Debug\net6.0\massive test.deps.json
+C:\Users\sagok\source\repos\massive test\massive test\bin\Debug\net6.0\massive test.runtimeconfig.json
+C:\Users\sagok\source\repos\massive test\massive test\bin\Debug\net6.0\massive test.dll
+C:\Users\sagok\source\repos\massive test\massive test\bin\Debug\net6.0\ref\massive test.dll
+C:\Users\sagok\source\repos\massive test\massive test\bin\Debug\net6.0\massive test.pdb
+C:\Users\sagok\source\repos\massive test\massive test\obj\Debug\net6.0\massive test.csproj.AssemblyReference.cache
+C:\Users\sagok\source\repos\massive test\massive test\obj\Debug\net6.0\massive test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagok\source\repos\massive test\massive test\obj\Debug\net6.0\massive test.AssemblyInfoInputs.cache
+C:\Users\sagok\source\repos\massive test\massive test\obj\Debug\net6.0\massive test.AssemblyInfo.cs
+C:\Users\sagok\source\repos\massive test\massive test\obj\Debug\net6.0\massive test.csproj.CoreCompileInputs.cache
+C:\Users\sagok\source\repos\massive test\massive test\obj\Debug\net6.0\massive test.dll
+C:\Users\sagok\source\repos\massive test\massive test\obj\Debug\net6.0\ref\massive test.dll
+C:\Users\sagok\source\repos\massive test\massive test\obj\Debug\net6.0\massive test.pdb
+C:\Users\sagok\source\repos\massive test\massive test\obj\Debug\net6.0\massive test.genruntimeconfig.cache
+C:\Users\sagok\Desktop\massive test\massive test\bin\Debug\net6.0\massive test.exe
+C:\Users\sagok\Desktop\massive test\massive test\bin\Debug\net6.0\massive test.deps.json
+C:\Users\sagok\Desktop\massive test\massive test\bin\Debug\net6.0\massive test.runtimeconfig.json
+C:\Users\sagok\Desktop\massive test\massive test\bin\Debug\net6.0\massive test.dll
+C:\Users\sagok\Desktop\massive test\massive test\bin\Debug\net6.0\ref\massive test.dll
+C:\Users\sagok\Desktop\massive test\massive test\bin\Debug\net6.0\massive test.pdb
+C:\Users\sagok\Desktop\massive test\massive test\obj\Debug\net6.0\massive test.csproj.AssemblyReference.cache
+C:\Users\sagok\Desktop\massive test\massive test\obj\Debug\net6.0\massive test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagok\Desktop\massive test\massive test\obj\Debug\net6.0\massive test.AssemblyInfoInputs.cache
+C:\Users\sagok\Desktop\massive test\massive test\obj\Debug\net6.0\massive test.AssemblyInfo.cs
+C:\Users\sagok\Desktop\massive test\massive test\obj\Debug\net6.0\massive test.csproj.CoreCompileInputs.cache
+C:\Users\sagok\Desktop\massive test\massive test\obj\Debug\net6.0\massive test.dll
+C:\Users\sagok\Desktop\massive test\massive test\obj\Debug\net6.0\ref\massive test.dll
+C:\Users\sagok\Desktop\massive test\massive test\obj\Debug\net6.0\massive test.pdb
+C:\Users\sagok\Desktop\massive test\massive test\obj\Debug\net6.0\massive test.genruntimeconfig.cache
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\bin\Debug\net6.0\massive test.exe
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\bin\Debug\net6.0\massive test.deps.json
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\bin\Debug\net6.0\massive test.runtimeconfig.json
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\bin\Debug\net6.0\massive test.dll
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\bin\Debug\net6.0\ref\massive test.dll
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\bin\Debug\net6.0\massive test.pdb
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\obj\Debug\net6.0\massive test.csproj.AssemblyReference.cache
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\obj\Debug\net6.0\massive test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\obj\Debug\net6.0\massive test.AssemblyInfoInputs.cache
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\obj\Debug\net6.0\massive test.AssemblyInfo.cs
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\obj\Debug\net6.0\massive test.csproj.CoreCompileInputs.cache
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\obj\Debug\net6.0\massive test.dll
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\obj\Debug\net6.0\ref\massive test.dll
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\obj\Debug\net6.0\massive test.pdb
+C:\Users\sagok\Desktop\massive (28.03.22)\massive test\obj\Debug\net6.0\massive test.genruntimeconfig.cache
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\massive test.exe
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\massive test.deps.json
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\massive test.runtimeconfig.json
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\massive test.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\ref\massive test.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\massive test.pdb
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\obj\Debug\net6.0\massive test.csproj.AssemblyReference.cache
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\obj\Debug\net6.0\massive test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\obj\Debug\net6.0\massive test.AssemblyInfoInputs.cache
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\obj\Debug\net6.0\massive test.AssemblyInfo.cs
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\obj\Debug\net6.0\massive test.csproj.CoreCompileInputs.cache
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\obj\Debug\net6.0\massive test.csproj.CopyComplete
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\obj\Debug\net6.0\massive test.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\obj\Debug\net6.0\ref\massive test.dll
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\obj\Debug\net6.0\massive test.pdb
+C:\Users\sagok\Desktop\massive (30.03.22)\massive test\obj\Debug\net6.0\massive test.genruntimeconfig.cache
